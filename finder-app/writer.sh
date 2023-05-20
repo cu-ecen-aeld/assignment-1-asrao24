@@ -1,4 +1,4 @@
-#!/bin/bash
+#Assignment 1 AmithRao writer.sh
 
 write_to_file() {
   # Check if both arguments are provided

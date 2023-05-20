@@ -1,9 +1,15 @@
-#!/bin/bash
+#Assignment1 - Amith Rao - finder.sh
 
 count_occurrences() {
   # Check if directory argument is provided
   if [[ -z "$1" ]]; then
     echo "Error: Directory argument required."
+    return 1
+  fi
+
+  # Check if string argument is provided
+  if [[ -z "$2" ]]; then
+    echo "Error: String argument required."
     return 1
   fi
 
