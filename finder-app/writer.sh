@@ -1,3 +1,7 @@
+#!/bin/bash
+
+
+
 #Assignment 1 AmithRao writer.sh retry3
 
 write_to_file() {
