@@ -1,4 +1,4 @@
-#Assignment1 - Amith Rao - finder.sh retry
+#Assignment1 - Amith Rao - finder.sh retry3
 
 count_occurrences() {
   # Check if directory argument is provided
