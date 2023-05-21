@@ -1,4 +1,4 @@
-#Assignment 1 AmithRao writer.sh
+#Assignment 1 AmithRao writer.sh try2
 
 write_to_file() {
   # Check if both arguments are provided
